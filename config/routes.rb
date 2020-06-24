@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   namespace :api do
-    resouces :posts
+    resources :posts
   end
 
 end
